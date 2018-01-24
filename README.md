@@ -23,3 +23,5 @@ RFM Base station requires RFM69 library customization to work with D1 Mini Shiel
 ## Moteino Shield Schematic:
 
 <img src="https://raw.githubusercontent.com/blebson/Automated-Blinds/master/Moteino-Shield-Schematic1.6.png" height="500">
+
+<img src="https://cdn.tindiemedia.com/images/resize/eUsvWNJP5kUEZI7CQNCSk80Gej4=/p/full-fit-in/2400x1600/i/93677/products/2018-01-24T05%3A35%3A10.224Z-IMG_20180123_212950588.jpg height="500">
