@@ -15,3 +15,7 @@ RFM Base station requires RFM69 library customization to work with D1 Mini Shiel
 - D5 - Relay Output - Trips the mechanical relay to power the voltage booster and the servo
 - D6 - Servo Output - Sends commands to the attached servo
 - D7 - Switch 2 Input - Input from the momentary switch for manual control, direction of movement defined in code
+
+----------
+
+<img src="https://raw.githubusercontent.com/blebson/Automated-Blinds/master/Moteino-Shield-Schematic1.6.png" height="500">
