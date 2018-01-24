@@ -2,7 +2,9 @@
 
 Moteino Shield requires a Moteino and a base station/bridge to work as shown in the example.
 
-RFM Base station requires RFM69 library customization to work with D1 Mini Shield (https://github.com/hallard/WeMos-RFM69). Modified library file available in this GitHub.
+RFM69 Listening Mode Library: https://github.com/LowPowerLab/RFM69/tree/ListenMode
+
+RFM Base station requires RFM69 library customization to work with D1 Mini Shield (https://github.com/hallard/WeMos-RFM69). Modified library file available in the /Arduino-Code/Libraries directory in this GitHub.
 
 ## Pin functions:
 
