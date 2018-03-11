@@ -19,7 +19,10 @@ MDNSResponder mdns;
 
 //RADIO SETTINGS
 #define FREQUENCY     RF69_915MHZ
+
+//ENCRYPT_KEY must be exactly 16 characters
 #define ENCRYPT_KEY "sampleEncryptKey"
+
 #define ADDRESS 99
 #define NETWORK_ID 1
 #define BURST_REPLY_TIMEOUT_MS 3000
