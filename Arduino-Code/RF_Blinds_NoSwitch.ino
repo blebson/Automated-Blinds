@@ -9,6 +9,7 @@
 #define FREQUENCY     RF69_915MHZ
 //#define IS_RFM69HW    //uncomment only for RFM69HW! Leave out if you have RFM69W!
 
+//ENCRYPT_KEY must match gateway value and must be exactly 16 characters
 #define ENCRYPT_KEY "sampleEncryptKey"
 #define ADDRESS 4
 #define NETWORK_ID 1
